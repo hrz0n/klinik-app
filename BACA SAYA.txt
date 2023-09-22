@@ -1,0 +1,17 @@
+INSTALLATIONAS
+==============
+
+1. Install Xampp di Komputer
+2. Buka Xampp, Jalankan Aphace dan MySql
+2. Extrak klinikApp.zip dan copy ke direktori C://xampp/htdocs/klinik/
+3. Buka browser dan arahkan ke http://localhost/phpmyadmin
+4. Buat Nama Database baru dengan nama klinikDB
+5. Import file klinik.sql ke database klinikDB
+6. Arahkan browser ke http://localhost/klinik/
+7. Login dengan
+	username : admin
+	password : admin
+
+	username : petugas
+	password : petugas
+8. Enjoy
